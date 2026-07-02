@@ -1,6 +1,6 @@
 {
   "name": "quantumscan-agent-doctor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Instant, zero-signup security check for an autonomous agent's wallet — open approvals + ECDSA nonce reuse.",
   "bin": {
     "quantumscan-agent-doctor": "bin/cli.js"

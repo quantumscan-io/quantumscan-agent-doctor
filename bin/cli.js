@@ -138,7 +138,8 @@ async function main() {
     }
   }
 
-  console.log(`\n${DIM}Full report + more checks: ${BASE_URL}/en/dashboard${RESET}\n`);
+  console.log(`\n${DIM}Full report + more checks: ${BASE_URL}/en/dashboard${RESET}`);
+  console.log(`${DIM}Useful? Star the scanner: https://github.com/quantumscan-io/scanner-core${RESET}\n`);
 
   process.exit(exitCode);
 }
