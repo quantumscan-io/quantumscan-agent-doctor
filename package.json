@@ -1,0 +1,31 @@
+{
+  "name": "quantumscan-agent-doctor",
+  "version": "1.0.0",
+  "description": "Instant, zero-signup security check for an autonomous agent's wallet — open approvals + ECDSA nonce reuse.",
+  "bin": {
+    "quantumscan-agent-doctor": "bin/cli.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ai-agent",
+    "wallet-security",
+    "blockchain-security",
+    "post-quantum-cryptography",
+    "quantumscan",
+    "erc-20",
+    "honeypot",
+    "drainer"
+  ],
+  "author": "QuantumScan <hello@quantumscan.io>",
+  "license": "MIT",
+  "homepage": "https://quantumscan.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quantumscan-io/quantumscan-agent-doctor"
+  },
+  "bugs": {
+    "url": "https://github.com/quantumscan-io/quantumscan-agent-doctor/issues"
+  }
+}
